@@ -1,5 +1,5 @@
 {
-  "name": "hello-node",
+  "name": "crud-node",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -18,5 +18,8 @@
   },
   "devDependencies": {
     "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=14 <15"
   }
 }
